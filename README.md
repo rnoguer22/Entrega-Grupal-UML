@@ -2,7 +2,7 @@
 
 Entrega grupal realizada por Gonzalo, Jose Miguel Zazo, Pelayo Huerta, Jose Luis Rodriguez y Ruben Nogueras
 
-Pinche aquí para acceder al link del repositorio
+(Pinche aquí para acceder al link del repositorio):[https://github.com/rnoguer22/Entrega-Grupal-UML.git]
 
 Ejercicios:
 
