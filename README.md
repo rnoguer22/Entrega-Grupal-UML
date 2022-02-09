@@ -1,6 +1,6 @@
 # Entrega-Grupal-UML
 
-Entrega grupal realizada por Gonzalo Martínez, Jose Miguel Zazo, Pelayo Huerta, Jose Luis Rodriguez y Ruben Nogueras
+Entrega grupal realizada por Gonzalo Martínez del Valle, Jose Miguel Zazo, Pelayo Huerta Mijares, Jose Luis Rodriguez Rodriguez y Ruben Nogueras Gonzalez
 
 [Pinche aquí para acceder al link del repositorio](https://github.com/rnoguer22/Entrega-Grupal-UML.git)
 
