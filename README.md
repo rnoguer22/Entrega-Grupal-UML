@@ -37,7 +37,7 @@ Ejercicios:
 ![16) UML - Ruben Nogueras Gonzalez](https://user-images.githubusercontent.com/91721762/152857542-4012c7dc-ace2-428a-a945-2a6c1f732a6f.png)
 
 18)
-![18) UML - Gonzalo Martínez](https://user-images.githubusercontent.com/91721237/153052524-af212df9-f964-47e0-8536-c771d3b6835d.png)
+![18) UML - Gonzalo Martínez](https://user-images.githubusercontent.com/91721237/153257020-90c0e294-28d5-4745-8b19-95465512d3af.png)
 
 20)
 ![20) UML - José Luis Rodríguez Rodríguez](https://user-images.githubusercontent.com/91721888/152859880-0123b15a-d5f9-4c3a-9cc0-c9576bd1aa91.png)
@@ -45,9 +45,15 @@ Ejercicios:
 21)
 ![21) UML - Ruben Nogueras Gonzalez](https://user-images.githubusercontent.com/91721762/152857579-97eb824f-9a58-416d-a767-c06223533dbf.png)
 
+23)
+![23) UML - Gonzalo Martínez](https://user-images.githubusercontent.com/91721237/153257053-e249835f-b6b2-42d4-a32e-c6b53ea7c608.png)
+
 25)
 ![25) UML - José Luis Rodríguez Rodríguez](https://user-images.githubusercontent.com/91721888/152859928-5582d630-43ec-42ac-8384-738630c588f3.png)
 
-
 26)
 ![26) UML - Ruben Nogueras Gonzalez](https://user-images.githubusercontent.com/91721762/152857612-ecc8a9d5-37b5-41d9-a0d9-3138999c498f.png)
+
+28)
+![28) UML - Gonzalo Martínez](https://user-images.githubusercontent.com/91721237/153257120-eaa30614-5397-4409-aae0-7df053bb6242.png)
+
