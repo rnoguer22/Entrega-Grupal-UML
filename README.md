@@ -10,7 +10,7 @@ Ejercicios:
 ![1) UML - Ruben Nogueras Gonzalez](https://user-images.githubusercontent.com/91721762/152857412-398b1c72-42cc-4695-abd8-95982eb3902d.png)
 
 2)
-![2) UML -  Jose Miguel Zazo Orozco]()
+![2) UML -  Jose Miguel Zazo Orozco](https://user-images.githubusercontent.com/91785177/153486430-76f8d15b-060a-4ba8-bc4b-fe003ac02274.png)
 
 3)
 ![3) UML - Gonzalo Martínez](https://user-images.githubusercontent.com/91721237/153052368-58d34a8d-c9d4-4e44-b382-13f2c91087e2.png)
@@ -40,7 +40,8 @@ Ejercicios:
 ![11) UML - Ruben Nogueras Gonzalez](https://user-images.githubusercontent.com/91721762/152857505-dca8633b-b729-468b-93bf-28654f7bd07a.png)
 
 12)
-![12) UML -  Jose Miguel Zazo Orozco]
+![12) UML -  Jose Miguel Zazo Orozco](https://user-images.githubusercontent.com/91785177/153486345-a6e5dcfb-a288-4ca8-9c17-60b002c4d3df.png)
+
 
 13)
 ![13) UML - Gonzalo Martínez](https://user-images.githubusercontent.com/91721237/153052458-f5c42e5d-d5f7-42fc-9b7b-8c4b9469a807.png)
