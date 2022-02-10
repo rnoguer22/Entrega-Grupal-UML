@@ -12,6 +12,9 @@ Ejercicios:
 3)
 ![3) UML - Gonzalo Martínez](https://user-images.githubusercontent.com/91721237/153052368-58d34a8d-c9d4-4e44-b382-13f2c91087e2.png)
 
+4)
+![4) UML - Pelayo Huerta Mijares](https://user-images.githubusercontent.com/91721764/153464279-66f31bca-c98d-4590-bb29-db1b64ae4864.png)
+
 5)
 ![5) UML - José Luis Rodríguez Rodríguez](https://user-images.githubusercontent.com/91721888/152859669-256598d0-5240-4f64-bc41-cbffa3b6a695.png)
 
@@ -20,6 +23,9 @@ Ejercicios:
 
 8)
 ![8) UML - Gonzalo Martínez](https://user-images.githubusercontent.com/91721237/153052403-a01e08b8-e684-43b0-ac0c-998a3af9fc67.png)
+
+9)
+![9) UML - Pelayo Huerta Mijares](https://user-images.githubusercontent.com/91721764/153464481-b882c77b-5008-4846-a693-13dc2290dee2.png)
 
 10)
 ![10) UML - José Luis Rodríguez Rodríguez](https://user-images.githubusercontent.com/91721888/152859801-a6d16c86-2edb-4af8-9f39-3677611f113f.png)
@@ -30,6 +36,9 @@ Ejercicios:
 13)
 ![13) UML - Gonzalo Martínez](https://user-images.githubusercontent.com/91721237/153052458-f5c42e5d-d5f7-42fc-9b7b-8c4b9469a807.png)
 
+14)
+![14) UML - Pelayo Huerta Mijares](https://user-images.githubusercontent.com/91721764/153464566-aac6407c-8a91-44d5-ada4-6ed22e61b905.png)
+
 15)
 ![15) UML - José Luis Rodríguez Rodríguez](https://user-images.githubusercontent.com/91721888/152859843-99e2efc0-aace-4a39-8119-dd619ae1bac4.png)
 
@@ -38,6 +47,9 @@ Ejercicios:
 
 18)
 ![18) UML - Gonzalo Martínez](https://user-images.githubusercontent.com/91721237/153257020-90c0e294-28d5-4745-8b19-95465512d3af.png)
+
+19)
+![19) UML - Pelayo Huerta Mijares](https://user-images.githubusercontent.com/91721764/153464622-69e37f7b-d0db-44fb-ab8a-ed5ee1f0eedb.png)
 
 20)
 ![20) UML - José Luis Rodríguez Rodríguez](https://user-images.githubusercontent.com/91721888/152859880-0123b15a-d5f9-4c3a-9cc0-c9576bd1aa91.png)
@@ -48,6 +60,9 @@ Ejercicios:
 23)
 ![23) UML - Gonzalo Martínez](https://user-images.githubusercontent.com/91721237/153257053-e249835f-b6b2-42d4-a32e-c6b53ea7c608.png)
 
+24)
+![24) UML - Pelayo Huerta Mijares](https://user-images.githubusercontent.com/91721764/153464653-57791279-dbf3-4ec2-b65f-eddfbfdc1167.png)
+
 25)
 ![25) UML - José Luis Rodríguez Rodríguez](https://user-images.githubusercontent.com/91721888/152859928-5582d630-43ec-42ac-8384-738630c588f3.png)
 
@@ -56,4 +71,8 @@ Ejercicios:
 
 28)
 ![28) UML - Gonzalo Martínez](https://user-images.githubusercontent.com/91721237/153257120-eaa30614-5397-4409-aae0-7df053bb6242.png)
+
+29)
+![29) UML - Pelayo Huerta Mijares](https://user-images.githubusercontent.com/91721764/153464759-724ef07a-efb2-4aa4-8525-d8b3b30cb0d8.png)
+
 
