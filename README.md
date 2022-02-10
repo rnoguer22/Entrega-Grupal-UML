@@ -25,7 +25,7 @@ Ejercicios:
 ![6) UML - Ruben Nogueras Gonzalez](https://user-images.githubusercontent.com/91721762/152857453-832ed0e7-d7ac-4298-a183-381050469050.png)
 
 7)
-![7) UML -  Jose Miguel Zazo Orozco]
+![7) UML -  Jose Miguel Zazo Orozco](https://github.com/rnoguer22/Entrega-Grupal-UML.git)
 
 8)
 ![8) UML - Gonzalo Martínez](https://user-images.githubusercontent.com/91721237/153052403-a01e08b8-e684-43b0-ac0c-998a3af9fc67.png)
