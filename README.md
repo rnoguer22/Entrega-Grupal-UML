@@ -10,7 +10,7 @@ Ejercicios:
 ![1) UML - Ruben Nogueras Gonzalez](https://user-images.githubusercontent.com/91721762/152857412-398b1c72-42cc-4695-abd8-95982eb3902d.png)
 
 2)
-![2) UML -  Jose Miguel Zazo Orozco](https://github.com/rnoguer22/Entrega-Grupal-UML/blob/main/Ejercicios%20UML/2%20UML%20-%20Jos%C3%A9%20Miguel%20Zazo%20Orozco.drawio.png)
+![2) UML -  Jose Miguel Zazo Orozco](https://github.com/rnoguer22/Entrega-Grupal-UML/blob/main/Ejercicios%20UML/2)%20UML%20-%20Jos%C3%A9%20Miguel%20Zazo%20Orozco.drawio.png)
 
 3)
 ![3) UML - Gonzalo Martínez](https://user-images.githubusercontent.com/91721237/153052368-58d34a8d-c9d4-4e44-b382-13f2c91087e2.png)
