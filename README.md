@@ -55,7 +55,8 @@ Ejercicios:
 ![16) UML - Ruben Nogueras Gonzalez](https://user-images.githubusercontent.com/91721762/152857542-4012c7dc-ace2-428a-a945-2a6c1f732a6f.png)
 
 17)
-![17) UML -  Jose Miguel Zazo Orozco]
+![17) UML -  Jose Miguel Zazo Orozco](https://user-images.githubusercontent.com/91785177/153486091-858474eb-d430-40bb-a9cb-3747ed3a21f3.png)
+
 
 18)
 ![18) UML - Gonzalo Martínez](https://user-images.githubusercontent.com/91721237/153257020-90c0e294-28d5-4745-8b19-95465512d3af.png)
@@ -70,7 +71,7 @@ Ejercicios:
 ![21) UML - Ruben Nogueras Gonzalez](https://user-images.githubusercontent.com/91721762/152857579-97eb824f-9a58-416d-a767-c06223533dbf.png)
 
 22)
-![22) UML -  Jose Miguel Zazo Orozco]
+![22) UML -  Jose Miguel Zazo Orozco](https://user-images.githubusercontent.com/91785177/153485998-50325ab3-35c9-4bcb-9c2e-512a0c229589.png)
 
 23)
 ![23) UML - Gonzalo Martínez](https://user-images.githubusercontent.com/91721237/153257053-e249835f-b6b2-42d4-a32e-c6b53ea7c608.png)
@@ -86,7 +87,6 @@ Ejercicios:
 
 27)
 ![27) UML -  Jose Miguel Zazo Orozco](https://user-images.githubusercontent.com/91785177/153485461-7f92435c-ad69-4643-9785-acd5d042f422.png)
-)
 
 28)
 ![28) UML - Gonzalo Martínez](https://user-images.githubusercontent.com/91721237/153257120-eaa30614-5397-4409-aae0-7df053bb6242.png)
