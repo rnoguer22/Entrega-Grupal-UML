@@ -85,7 +85,8 @@ Ejercicios:
 ![26) UML - Ruben Nogueras Gonzalez](https://user-images.githubusercontent.com/91721762/152857612-ecc8a9d5-37b5-41d9-a0d9-3138999c498f.png)
 
 27)
-![27) UML -  Jose Miguel Zazo Orozco]
+![27) UML -  Jose Miguel Zazo Orozco](https://user-images.githubusercontent.com/91785177/153485461-7f92435c-ad69-4643-9785-acd5d042f422.png)
+)
 
 28)
 ![28) UML - Gonzalo Martínez](https://user-images.githubusercontent.com/91721237/153257120-eaa30614-5397-4409-aae0-7df053bb6242.png)
