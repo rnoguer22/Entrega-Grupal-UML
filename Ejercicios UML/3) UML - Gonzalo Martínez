@@ -1,1 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T08:06:16.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" version="16.5.5" etag="lo-gYg-Bvq6ANdDgQKCh" type="github"><diagram id="d9QI9NiYdOEagFtZSbC4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-10T08:07:46.054Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="T_1OeMrP1XcPkPLYcY8b" version="16.5.5" type="github">
+  <diagram id="d9QI9NiYdOEagFtZSbC4" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9Gcz37pX89Of5l-iX3rj-1" value="Gioconda: Cuadro" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="200" height="140" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Gcz37pX89Of5l-iX3rj-2" value="Título = &quot;La Gioconda&quot;&#xa;AC = &quot;1503 - 1516&quot;&#xa;Técnica = Óleo&#xa;Sub-técnica = Sfumato&#xa;Soporte = Madera de álamo&#xa;Autor = &quot;Leonardo da Vinci&quot;&#xa;Estado de conservación = Regular" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9Gcz37pX89Of5l-iX3rj-1">
+          <mxGeometry y="26" width="200" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="9Gcz37pX89Of5l-iX3rj-3" value="l1: Lugar" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="691" y="480" width="180" height="90" as="geometry">
+            <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Gcz37pX89Of5l-iX3rj-4" value="Institución = &quot;Museo del Louvre&#xa;Ciudad = &quot;París&quot;&#xa;País = &quot;Francia&quot;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9Gcz37pX89Of5l-iX3rj-3">
+          <mxGeometry y="26" width="180" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="9Gcz37pX89Of5l-iX3rj-5" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Gcz37pX89Of5l-iX3rj-2" target="9Gcz37pX89Of5l-iX3rj-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="440" as="sourcePoint" />
+            <mxPoint x="600" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="519" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Gcz37pX89Of5l-iX3rj-6" value="Se localiza en ▶" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="9Gcz37pX89Of5l-iX3rj-5">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="50" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Gcz37pX89Of5l-iX3rj-7" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Gcz37pX89Of5l-iX3rj-1" target="9Gcz37pX89Of5l-iX3rj-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="640" as="sourcePoint" />
+            <mxPoint x="380" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Gcz37pX89Of5l-iX3rj-8" value="Es Réplica De" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;rotation=-90;" connectable="0" vertex="1" parent="9Gcz37pX89Of5l-iX3rj-7">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-10" y="-90" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Gcz37pX89Of5l-iX3rj-9" value="Réplica: Cuadro" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="680" width="200" height="140" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Gcz37pX89Of5l-iX3rj-10" value="Título = &quot;Gioconda de El Prado&quot;&#xa;AC = &quot;1503 - 1516&quot;&#xa;Técnica = Óleo&#xa;Sub-técnica = Pincelada simple&#xa;Soporte = Madera de nogal&#xa;Autor = desconocido&#xa;Estado de conservación = Bueno" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9Gcz37pX89Of5l-iX3rj-9">
+          <mxGeometry y="26" width="200" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="9Gcz37pX89Of5l-iX3rj-11" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9Gcz37pX89Of5l-iX3rj-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="680" as="sourcePoint" />
+            <mxPoint x="690" y="759" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="759" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Gcz37pX89Of5l-iX3rj-12" value="Se localiza en ▶" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="9Gcz37pX89Of5l-iX3rj-11">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="50" y="-23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Gcz37pX89Of5l-iX3rj-13" value="l2: Lugar" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="691" y="710" width="190" height="90" as="geometry">
+            <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Gcz37pX89Of5l-iX3rj-14" value="Institución = &quot;Museo de El Prado&quot;&#xa;Ciudad = &quot;Madrid&quot;&#xa;País = &quot;España&quot;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9Gcz37pX89Of5l-iX3rj-13">
+          <mxGeometry y="26" width="190" height="64" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
